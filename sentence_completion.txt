@@ -1,8 +1,29 @@
 Section 1
+1E
+2B
+3C->A
+4C
+5E
+6D
+7C->A
 
 Section 2
+1B
+2E->B
+3D
+4E
+5C
+6B
+7E
 
 Section 3
+1C
+2E
+3A
+4E
+5A->B 反义
+6D
+7D
 
 Section 4
 1E
@@ -56,6 +77,151 @@ Section 9
 4B
 5E
 6B->C 不要以为做过了你就会做对
-7C perquisite 特权 magnanimity 宽容的
+7C perquisite 特权 magnanimity 宽容的 largesse 慷慨
 
 Section 10
+1C
+2D
+3D
+4E->A subordination from A to B, A 屈服于 B
+5B discomfit 使尴尬 disgrace 使丢脸
+6B
+7B
+
+Section 11
+1B divest 剥夺
+2D
+3A->B heretical 邪教的 我又SB了
+4E 
+5E introspection 内省
+6B
+7C iniquitous
+
+Section 12
+1A
+2D
+3C->A
+4C
+5D
+6D preemptive 有优先权的
+7B
+
+Section 13
+1D
+2C->A 注意informed
+3A
+4C
+5C
+6C
+7E reverberate 回想，反射，弹回
+
+Section 14
+1C
+2A->C near the surface 真实的
+3A->D laity 俗家弟子 rank-and-file 低级的
+4B->D 
+5E
+6A->E efficacious 有效的 speculative 推测的，投机的
+7B->E 
+
+Section 15
+1A
+2D
+3E
+4E
+5E->B 
+6D
+7E->C technical 技巧上的
+
+2013.4.1
+
+Section 16
+1C
+2D->B grade 斜坡
+3D->A at best + 轻微贬义
+4E
+5D
+6B
+7B->E 重复！
+
+Section 17
+1A
+2C tenor 男高音
+3B
+4A->E shurg off 放弃，谦让，拒绝
+5A
+6E exoneration 免除，解脱
+7B
+
+Section 18
+1C
+2E
+3D->C ridicule 嘲笑 allure 引诱
+4A
+5E savor 享受
+6E
+7B->E
+
+Section 19 (10 minutes)
+1D
+2A geography 地质 cryogenic 低温的
+3D attentive 留心
+4B
+5B->C outstrips 超过
+6D->B 同义你怎么没看出来
+7B->C 同义你怎么又没看出来
+
+Section 20 (6 minutes)
+1E
+2B
+3D
+4A
+5A->B ludicrous 滑稽，荒唐的
+6C
+7E
+
+Section 21 (7 minutes)
+1B
+2E->C
+3C->E
+4E->C 反义
+5C
+6A->E 同义
+7E
+
+Section 22 
+1A->D
+2A
+3B
+4C
+5C
+6C
+7C->D disabuse 使醒悟
+
+Section 23(7 minutes)
+1B
+2E
+3C->B short of 差一点就
+4A->D 反义
+5E
+6E
+7D
+
+Section 24
+1C
+2A
+3C->A 递进折转 but nevertheless
+4C
+5B
+6C
+7E->B cant 专业术语 
+
+Section 25
+1D
+2B->C As serious as, 让步
+3A
+4C->B
+5D
+6A
+7E->C
+
