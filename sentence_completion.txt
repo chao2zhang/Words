@@ -225,3 +225,38 @@ Section 25
 6A
 7E->C
 
+Section 26
+1A
+2C->B perception 
+3C->D 填益处
+4D->E
+5C
+6C->B 反义词
+7E
+
+Section 27
+1A
+2C
+3A
+4A->E as ... as ... (without can), 并列而非从后往前推
+5A !!
+6D->B 直接反义
+7A->D 同义
+
+Section 28
+1C pardon 宽恕
+2E caste 种姓
+3C->E flaccid 松弛
+4B
+5E
+6A->D procurement 采购
+7D deign 屈尊
+
+Section 29 (First AC)
+1C
+2C
+3D
+4D
+5C
+6E
+7B
