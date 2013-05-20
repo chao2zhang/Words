@@ -9,7 +9,7 @@ Section 1
 
 Section 2
 1B
-2E->B
+2E->A
 3D
 4E
 5C
@@ -712,3 +712,111 @@ Section 76(2) 11.32 - 11.40
 5E
 6C
 7C
+
+Section 77 10:46 - 10:54
+1B
+2D
+3C
+4D->E free 反义词 -> controlled
+5B->C sluggish 不动的，迟缓的
+6D->A 截然相反
+7E->C
+
+Section 78 10:57 - 11:07
+1E
+2D
+3D->E exhaustiveness 穷尽各种可能性
+4A->B contrive 人工制成的
+5D
+6E
+7B->A divisive 造成分裂的
+
+Section 79
+1B->E less than 表否定 anything more than 不仅仅是 nothing more than 只不过是
+2D
+3E guffaw 哄笑
+4E
+5D->B 
+6B
+7E
+
+Section 80 11:55 - 12:03
+1A
+2A
+3C
+4C
+5E
+6D
+7D
+
+Section 81 12:12 - 12:20
+1A->E 同义不是反义
+2B
+3D->B 理解题意
+4E->C 就选根据意思对的那种
+5A
+6E->B figurative 反义词
+7B
+
+Section 82 12:25 - 12:32
+1E
+2B
+3A->C ???
+4B
+5C
+6D
+7D
+
+Section 83 12:46 - 12:56
+1B->D 
+2A
+3E
+4C
+5D
+6C
+7C
+
+Section 84 4:43 - 4:53
+1B
+2E
+3E
+4E->B 直接找反义词哦
+5D
+6D
+7A
+
+Section 85 5:01 - 5:09
+1A->E
+2A
+3E
+4C
+5C
+6C
+7A
+
+Section 86 7:34 - 7:43
+1C
+2E
+3E 注意conscious
+4E->D 
+5C->E augur 预示 表转折
+6B->C 
+7D
+
+Section 87 7.52 - 8.00
+1B
+2D
+3E
+4A debunk 揭穿
+5B
+6D
+7C
+
+Section 88 8.04 - 8.13
+1C
+2C
+3B mandate 权利 <-> duty 义务 
+4E
+5A enjoin 命令
+6B
+7B
